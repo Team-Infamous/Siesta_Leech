@@ -25,6 +25,7 @@ motor
 mutagen
 markdown
 natsort
+pytz
 pillow
 psutil
 pybase64
@@ -33,6 +34,7 @@ python-dotenv
 pyshorteners
 python-magic
 qbittorrent-api
+quoters
 requests
 speedtest-cli
 telegraph
